@@ -1,0 +1,12 @@
+sdk.installer.install.java=Sun JDK 1.6+ was not found on your system, would you like to download and install one now?
+sdk.installer.path.with.spaces=This directory path cannot contain spaces, please choose another directory.
+sdk.installer.invalid.installation.dir=It appears that the target installation directory is not empty. Please choose an empty or new directory path.
+sdk.installer.downloading=Downloading files...
+sdk.installer.installing.java=Installing Java. Please wait...
+sdk.installer.home.directory.screen.title=\nSelect Atlassian Plugin SDK Home
+sdk.installer.home.directory.screen.subtitle=
+sdk.installer.home.directory.screen.subtitle.console=Default location for {0} home directory
+Installer.Welcome.Title=%1$s ${project.version}
+
+##override install4j standard messages
+FinishedLabel=Setup has finished installing

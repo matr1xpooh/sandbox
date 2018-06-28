@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+
+<plist version="1.0">
+  <dict>
+    <key>files</key>
+    <dict>
+      <key>Resources/app.icns</key>
+      <data>XjAx6nSthlEYjW5bcq3ImOc/+7E=</data>
+      <key>Resources/app/.install4j/i4jruntime.jar</key>
+      <data>ljVsuWuZ6a3ELWvWMUkHmMOCcl8=</data>
+      <key>Resources/app/0.dat</key>
+      <data>vk5y41r1Y9aBGeOnxkIFO6xAuk0=</data>
+      <key>Resources/app/MessagesDefault</key>
+      <data>pglb/kSqB+zFBOUIwI3HXUjZpOQ=</data>
+      <key>Resources/app/i4j_extf_0_e0qk4c.utf8</key>
+      <data>pglb/kSqB+zFBOUIwI3HXUjZpOQ=</data>
+      <key>Resources/app/i4j_extf_1_e0qk4c.utf8</key>
+      <data>kIDya7RGxdt96Y5Lj5qhBIFP6gQ=</data>
+      <key>Resources/app/i4j_extf_2_e0qk4c_7371s3.png</key>
+      <data>xV2QDoW5+HSVcbHJvdlFziky/YA=</data>
+      <key>Resources/app/i4j_extf_3_e0qk4c_fm872l.png</key>
+      <data>5Xaw0XfJznHfBR05czRaYqOeunk=</data>
+      <key>Resources/app/i4j_extf_4_e0qk4c_ptm4mx.ico</key>
+      <data>7t/FAVp/i1KLUlh5PuvStPvkJLM=</data>
+      <key>Resources/app/i4jparams.conf</key>
+      <data>OYYI1xnvx6I0CPeYk5/h2A82Tn8=</data>
+      <key>Resources/app/install4j</key>
+      <data>VmZAM5GuzYpGlKZuu/x1T3Rr6dw=</data>
+      <key>Resources/app/stats.properties</key>
+      <data>5nyCcU+qjgCOOxNMNUjkeMgWbjM=</data>
+      <key>Resources/app/user.jar</key>
+      <data>UYvNItlP5kmdyiooSP7egjU/hDU=</data>
+      <key>Resources/app/user/post-install</key>
+      <data>3TNrhGgScrUW7wSpQ7xKuzAkJgE=</data>
+      <key>Resources/en.lproj/Localizable.strings</key>
+      <data>fwXvVmIXnLBIZJT51nRs9V64iV0=</data>
+      <key>Resources/en.lproj/MainMenu.nib</key>
+      <data>hDx2TDj4YU/7xxZYidAHB1RvoNs=</data>
+      <key>Resources/i4jlauncher.config</key>
+      <data>kSaH7CX/d3qkPl1dYcIfdpBgJ1A=</data>
+    </dict>
+    <key>files2</key>
+    <dict>
+      <key>Resources/app.icns</key>
+      <data>XjAx6nSthlEYjW5bcq3ImOc/+7E=</data>
+      <key>Resources/app/.install4j/i4jruntime.jar</key>
+      <data>ljVsuWuZ6a3ELWvWMUkHmMOCcl8=</data>
+      <key>Resources/app/0.dat</key>
+      <data>vk5y41r1Y9aBGeOnxkIFO6xAuk0=</data>
+      <key>Resources/app/MessagesDefault</key>
+      <data>pglb/kSqB+zFBOUIwI3HXUjZpOQ=</data>
+      <key>Resources/app/i4j_extf_0_e0qk4c.utf8</key>
+      <data>pglb/kSqB+zFBOUIwI3HXUjZpOQ=</data>
+      <key>Resources/app/i4j_extf_1_e0qk4c.utf8</key>
+      <data>kIDya7RGxdt96Y5Lj5qhBIFP6gQ=</data>
+      <key>Resources/app/i4j_extf_2_e0qk4c_7371s3.png</key>
+      <data>xV2QDoW5+HSVcbHJvdlFziky/YA=</data>
+      <key>Resources/app/i4j_extf_3_e0qk4c_fm872l.png</key>
+      <data>5Xaw0XfJznHfBR05czRaYqOeunk=</data>
+      <key>Resources/app/i4j_extf_4_e0qk4c_ptm4mx.ico</key>
+      <data>7t/FAVp/i1KLUlh5PuvStPvkJLM=</data>
+      <key>Resources/app/i4jparams.conf</key>
+      <data>OYYI1xnvx6I0CPeYk5/h2A82Tn8=</data>
+      <key>Resources/app/install4j</key>
+      <data>VmZAM5GuzYpGlKZuu/x1T3Rr6dw=</data>
+      <key>Resources/app/stats.properties</key>
+      <data>5nyCcU+qjgCOOxNMNUjkeMgWbjM=</data>
+      <key>Resources/app/user.jar</key>
+      <data>UYvNItlP5kmdyiooSP7egjU/hDU=</data>
+      <key>Resources/app/user/post-install</key>
+      <data>3TNrhGgScrUW7wSpQ7xKuzAkJgE=</data>
+      <key>Resources/en.lproj/Localizable.strings</key>
+      <data>fwXvVmIXnLBIZJT51nRs9V64iV0=</data>
+      <key>Resources/en.lproj/MainMenu.nib</key>
+      <data>hDx2TDj4YU/7xxZYidAHB1RvoNs=</data>
+      <key>Resources/i4jlauncher.config</key>
+      <data>kSaH7CX/d3qkPl1dYcIfdpBgJ1A=</data>
+      <key>vmoptions.txt</key>
+      <data>KVKZQIu/gmD6TumKTqN/VHC+BKY=</data>
+    </dict>
+    <key>rules</key>
+    <dict>
+      <key>^Resources/</key>
+      <true />
+      <key>^Resources/.*\.lproj/</key>
+      <dict>
+        <key>optional</key>
+        <true />
+        <key>weight</key>
+        <real>1000</real>
+      </dict>
+      <key>^Resources/.*\.lproj/locversion.plist$</key>
+      <dict>
+        <key>omit</key>
+        <true />
+        <key>weight</key>
+        <real>1100</real>
+      </dict>
+      <key>^version.plist$</key>
+      <true />
+    </dict>
+    <key>rules2</key>
+    <dict>
+      <key>.*\.dSYM($|/)</key>
+      <dict>
+        <key>weight</key>
+        <real>11</real>
+      </dict>
+      <key>^(.*/)?\.DS_Store$</key>
+      <dict>
+        <key>omit</key>
+        <true />
+        <key>weight</key>
+        <real>2000</real>
+      </dict>
+      <key>^(Frameworks|SharedFrameworks|PlugIns|Plug-ins|XPCServices|Helpers|MacOS|Library/(Automator|Spotlight|LoginItems))/</key>
+      <dict>
+        <key>nested</key>
+        <true />
+        <key>weight</key>
+        <real>10</real>
+      </dict>
+      <key>^.*</key>
+      <true />
+      <key>^Info\.plist$</key>
+      <dict>
+        <key>omit</key>
+        <true />
+        <key>weight</key>
+        <real>20</real>
+      </dict>
+      <key>^PkgInfo$</key>
+      <dict>
+        <key>omit</key>
+        <true />
+        <key>weight</key>
+        <real>20</real>
+      </dict>
+      <key>^Resources</key>
+      <dict>
+        <key>weight</key>
+        <real>20</real>
+      </dict>
+      <key>^Resources/.*\.lproj/</key>
+      <dict>
+        <key>optional</key>
+        <true />
+        <key>weight</key>
+        <real>1000</real>
+      </dict>
+      <key>^Resources/.*\.lproj/locversion.plist$</key>
+      <dict>
+        <key>omit</key>
+        <true />
+        <key>weight</key>
+        <real>1100</real>
+      </dict>
+      <key>^[^/]+$</key>
+      <dict>
+        <key>nested</key>
+        <true />
+        <key>weight</key>
+        <real>10</real>
+      </dict>
+      <key>^embedded\.provisionprofile$</key>
+      <dict>
+        <key>weight</key>
+        <real>20</real>
+      </dict>
+      <key>^version\.plist$</key>
+      <dict>
+        <key>weight</key>
+        <real>20</real>
+      </dict>
+    </dict>
+  </dict>
+</plist>
+

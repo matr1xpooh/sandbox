@@ -1,0 +1,22 @@
+#!/bin/sh
+INSTALLATION_HOME=$1
+VERSION=$2
+BUNDLED_MAVEN_VERSION=$3
+USER_HOME=$4
+#make sure our installdirs exist
+sudo mkdir -p /usr/local/bin/
+# remove any previous symlinks from /usr/local/bin
+for i in `find ${INSTALLATION_HOME} -name "atlas-*"`; do
+    name=`basename $i`
+    sudo rm -f "/usr/local/bin/$name"
+done
+# set correct perms
+sudo chown -R root:staff ${INSTALLATION_HOME}
+sudo chmod -R 755 ${INSTALLATION_HOME}/bin
+sudo chmod -R 755 ${INSTALLATION_HOME}/apache-maven-${BUNDLED_MAVEN_VERSION}/bin
+
+# Add the symlinks we need from /usr/share to /usr/local/bin
+for f in `find ${INSTALLATION_HOME}/bin/ -name "atlas-*" | xargs -n1 basename`; do
+  sudo ln -s ${INSTALLATION_HOME}/bin/$f /usr/local/bin/$f
+  sudo chown -R root:staff /usr/local/bin/$f
+done
